@@ -1,0 +1,229 @@
+Unity Editor version:    2020.3.27f1 (e759542391ea)
+Branch:                  2020.3/release
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 11.7.10 (Build 20G1427)
+Darwin version:          20.6.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        16384 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Applications/2020.3.27f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/game12/Flappy Bird
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61610
+Successfully changed project path to: /Users/game12/Flappy Bird
+/Users/game12/Flappy Bird
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 36.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.27f1 (e759542391ea)
+[Subsystems] Discovering subsystems at path /Applications/2020.3.27f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/game12/Flappy Bird/Assets
+GfxDevice: creating device client; threaded=0
+2025-05-29 09:10:26.826 Unity[42071:3054128] iMac preferred device: AMD Radeon Pro 5500 XT (high power)
+2025-05-29 09:10:26.826 Unity[42071:3054128] Metal devices available: 1
+2025-05-29 09:10:26.826 Unity[42071:3054128] 0: AMD Radeon Pro 5500 XT (high power)
+2025-05-29 09:10:26.827 Unity[42071:3054128] Using device AMD Radeon Pro 5500 XT (high power)
+Initializing Metal device caps: AMD Radeon Pro 5500 XT
+Initialize mono
+Mono path[0] = '/Applications/2020.3.27f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/2020.3.27f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/2020.3.27f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56071
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/2020.3.27f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000455 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 36.11 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.538 seconds
+Domain Reload Profiling:
+	ReloadAssembly (538ms)
+		BeginReloadAssembly (38ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (434ms)
+			LoadAssemblies (37ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (159ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (33ms)
+			SetupLoadedEditorAssemblies (166ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (36ms)
+				BeforeProcessingInitializeOnLoad (7ms)
+				ProcessInitializeOnLoadAttributes (93ms)
+				ProcessInitializeOnLoadMethodAttributes (26ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003072 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 34.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.041 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1042ms)
+		BeginReloadAssembly (139ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (845ms)
+			LoadAssemblies (67ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (312ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (303ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (35ms)
+				BeforeProcessingInitializeOnLoad (57ms)
+				ProcessInitializeOnLoadAttributes (192ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.000384 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.000444 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Launching external process: /Applications/2020.3.27f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Initializing Unity extensions:
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2203 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 212.5 MB.
+System memory in use after: 211.8 MB.
+
+Unloading 106 unused Assets to reduce memory usage. Loaded Objects now: 2676.
+Total: 2.758345 ms (FindLiveObjects: 0.159110 ms CreateObjectMapping: 0.079941 ms MarkObjects: 2.130055 ms  DeleteObjects: 0.388637 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/Score.cs
+  artifactKey: Guid(719408099ed8443089b0d89e3bd6c800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Score.cs using Guid(719408099ed8443089b0d89e3bd6c800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bb6578109f5b29346665d23395ace7d') in 0.207556 seconds 
+  Import took 0.214159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 225.844914 seconds.
+  path: Assets/Prefabs/Pipes.prefab
+  artifactKey: Guid(23f09386d6afd41c581062d0c37dafc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pipes.prefab using Guid(23f09386d6afd41c581062d0c37dafc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e2cd63b3cde3d5647cd4d38e7be3664') in 0.920753 seconds 
+  Import took 0.926786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.776165 seconds.
+  path: Assets/Prefabs/Pipes.prefab
+  artifactKey: Guid(23f09386d6afd41c581062d0c37dafc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pipes.prefab using Guid(23f09386d6afd41c581062d0c37dafc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e680ebb311e5cd9a759ea6638e6d518') in 0.009242 seconds 
+  Import took 0.012913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.090513 seconds.
+  path: Assets/Prefabs/Pipes.prefab
+  artifactKey: Guid(23f09386d6afd41c581062d0c37dafc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pipes.prefab using Guid(23f09386d6afd41c581062d0c37dafc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71935e46f44192b78db097ecfc6bb66c') in 0.007365 seconds 
+  Import took 0.010581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 170.640830 seconds.
+  path: Assets/Prefabs/Pipes.prefab
+  artifactKey: Guid(23f09386d6afd41c581062d0c37dafc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pipes.prefab using Guid(23f09386d6afd41c581062d0c37dafc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9cb6a421059a30bc38fbc3cd0fa9aa1') in 0.008286 seconds 
+  Import took 0.012575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.279871 seconds.
+  path: Assets/Prefabs/Pipes.prefab
+  artifactKey: Guid(23f09386d6afd41c581062d0c37dafc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pipes.prefab using Guid(23f09386d6afd41c581062d0c37dafc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd778ffe81db6cf90b98c99e2b9a52460') in 0.008587 seconds 
+  Import took 0.011851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.716384 seconds.
+  path: Assets/Prefabs/Pipes.prefab
+  artifactKey: Guid(23f09386d6afd41c581062d0c37dafc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pipes.prefab using Guid(23f09386d6afd41c581062d0c37dafc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0c06f5160ac24cdd1d03008554e93e2') in 0.009503 seconds 
+  Import took 0.013314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.782146 seconds.
+  path: Assets/Prefabs/Pipes.prefab
+  artifactKey: Guid(23f09386d6afd41c581062d0c37dafc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pipes.prefab using Guid(23f09386d6afd41c581062d0c37dafc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3439c76c6aef56ef12ea3b07bb1a76ad') in 0.009672 seconds 
+  Import took 0.013094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.884689 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95df672b4aaba54310d34c83eef51bb8') in 0.243156 seconds 
+  Import took 0.248500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.193957 seconds.
+  path: Assets/Prefabs/Pipes.prefab
+  artifactKey: Guid(23f09386d6afd41c581062d0c37dafc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pipes.prefab using Guid(23f09386d6afd41c581062d0c37dafc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1acaa9ef22237e54bf111a963ceb4f4d') in 0.009272 seconds 
+  Import took 0.013096 seconds .
+
